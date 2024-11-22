@@ -7,10 +7,10 @@ public class dog {
     String breed;
 
     public void walk(){
-        System.out.println("Dog can walk");
+        System.out.println( name + " can walk");
     }
     public void run(){
-        System.out.println("Dog can run");
+        System.out.println( name + " can run");
     }
 
 }
